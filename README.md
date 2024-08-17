@@ -4,6 +4,7 @@
 ###### •Ana veriler haritada görselleştirilebilir, haritada kullanılan veriler ‘ana_veriler.xlsx’ adlı dosyadan alınır ve siteden veriler kazınarak güncel verilere de erişilebilir, daha fazla veri kısmındaki veriler ise sadece siteden verileri kazırlar.
 ###### •‘ana_veriler.xlsx’ adlı Excel dosyasına kendi çektiğiniz verileri doğru bir şekilde yerleştirdiğiniz takdirde bu verileri de haritaya ekleme imkanına erişebilirsiniz.
 ###### •Kod içerisinde dosya konumları yer almaktadır eğer kodu kendi cihazınızda kullanmayı arzu ederseniz bu dosya konumlarını kendi dosya konumlarınız ile değiştiriniz.
+###### •Projede yer alan 'html' uzantılı dosyaları folium kütüphanesi oluşturmuştur, kodu kendi cihanızında etkinleştirmek için 'html' uzantılı dosyaları indirmeniz gerekmez bu dosyalar kod çalıştırıldığında folium betikliği tarafından oluşturulur.
 
 ## Özellikler
 ###### •	Veri Toplama: Çeşitli ekonomik göstergelere ilişkin verileri otomatik olarak toplar.
