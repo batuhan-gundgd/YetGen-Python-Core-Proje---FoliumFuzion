@@ -1,7 +1,7 @@
 ## Genel Bakış
 ### Proje Tanıtım Videosu
 
-Projenin genel hatlarını inceleyen videoya aşağıdaki YouTube linkinden erişebilirsiniz: [Proje Tanıtım Videosu](https://www.youtube.com/watch?v=WS46JQbi4Bs)
+Projenin genel hatlarını inceleyen videoya YouTube linkinden erişebilirsiniz: [Proje Tanıtım Videosu](https://www.youtube.com/watch?v=WS46JQbi4Bs)
 
 ###### •FoliumFuzion.py, çeşitli ekonomik ve demografik göstergelere ilişkin verileri toplayan ve bu verileri interaktif haritalar üzerinde görselleştiren bir Python betiğidir. Bu betik, kullanıcıların ticaret dengesi, nüfus dağılımı, enflasyon, gayri safi yurtiçi hasıla (GDP) ve CO2 emisyonları gibi önemli verileri hızlıca elde edip haritalar üzerinde görselleştirmesini sağlar. 
 ###### •Projede kullanılan veriler ‘theglobaleconomy’ sitesinden alınmıştır. 
